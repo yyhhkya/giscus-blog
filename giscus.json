@@ -1,3 +1,6 @@
 {
-  "origins": ["https://blog.isyyo.com"]
+  "origins": [
+    "https://blog.isyyo.com",
+    http://localhost:*
+  ]
 }
