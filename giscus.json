@@ -1,8 +1,5 @@
 {
   "origins": [
-    "https://cf.blog.isyyo.com",
-    "https://eo.blog.isyyo.com",
-    "https://vercel.blog.isyyo.com",
-    "https://netlify.blog.isyyo.com"
+    "https://blog.isyyo.com"
   ]
 }
